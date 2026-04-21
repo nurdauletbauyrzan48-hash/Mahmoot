@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "noEmit": true,
+    "noErrorTruncation": true,
+    "esModuleInterop": true,
+    "paths": {
+      "@mahmoot/common/*": ["./packages/common/src/*"],
+      "@mahmoot/socket/*": ["./packages/socket/src/*"],
+      "@mahmoot/web/*": ["./packages/web/src/*"]
+    },
+    "strict": true,
+    "strictNullChecks": true
+  }
+}

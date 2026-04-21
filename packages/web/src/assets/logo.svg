@@ -1,0 +1,13 @@
+<svg width="760" height="130" viewBox="0 0 760 130" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .logo-text {
+      font-family: 'Arial Black', 'Arial Bold', Gadget, sans-serif;
+      font-size: 108px;
+      font-weight: 900;
+      fill: #FF9900;
+      letter-spacing: -2px;
+    }
+  </style>
+  <text class="logo-text" x="0" y="108">Mahmoot</text>
+  <rect x="0" y="118" width="760" height="8" rx="4" fill="#FF9900" opacity="0.5"/>
+</svg>
